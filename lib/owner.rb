@@ -22,4 +22,8 @@ class Owner
     @@all.size
   end
 
+  def say_species
+    puts "I am a #{species}."
+  end
+
 end
