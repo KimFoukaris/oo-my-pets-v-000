@@ -5,5 +5,5 @@ class Cat
   def initialized
     cat = self.new(name)
   end
-  
+
 end
